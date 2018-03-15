@@ -1,1 +1,1 @@
-# northqChallenge
+# northq Code Challenge
